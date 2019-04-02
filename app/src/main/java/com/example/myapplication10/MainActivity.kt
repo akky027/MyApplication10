@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("TEST_TEST", "bbb")
 
+        Log.d("TEST_TEST", "ccc")
+
 
         fab.setOnClickListener { view ->
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
